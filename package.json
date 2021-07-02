@@ -1,0 +1,12 @@
+{
+  "name": "handle-image-errors",
+  "version": "1.0.0",
+  "description": "A template for Semantic UI Vue issues",
+  "keywords": [],
+  "homepage": "https://semantic-ui-vue.github.io",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-ui-vue": "0.2.6",
+    "vue": "2.5.16"
+  }
+}
